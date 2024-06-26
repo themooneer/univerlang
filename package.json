@@ -1,0 +1,28 @@
+{
+  "name": "univerlang",
+  "version": "1.0.0",
+  "description": "convert language codes between various formats such as IOC, ISO2, ISO3, and FIFA codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themooneer/univerlang.git"
+  },
+  "keywords": [
+    "IOC",
+    "ISO2",
+    "ISO3",
+    "and",
+    "FIFA",
+    "codes",
+    "languages"
+  ],
+  "author": "Mounir Hamzaoui @themooneer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themooneer/univerlang/issues"
+  },
+  "homepage": "https://github.com/themooneer/univerlang#readme"
+}
