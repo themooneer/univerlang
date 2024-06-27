@@ -1,6 +1,6 @@
 {
   "name": "univerlang",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "convert language codes between various formats such as IOC, ISO2, ISO3, and FIFA codes.",
   "main": "index.js",
   "scripts": {
