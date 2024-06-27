@@ -1,7 +1,7 @@
-const fifaLang = require("./resources/byFIFA.js");
-const iocLang = require("./resources/byIOC.js");
-const iso2Lang = require("./resources/byISO2.js");
-const iso3Lang = require("./resources/byISO3.js");
+const fifaLang = require("./mapping/byFIFA.js");
+const iocLang = require("./mapping/byIOC.js");
+const iso2Lang = require("./mapping/byISO2.js");
+const iso3Lang = require("./mapping/byISO3.js");
 
 // ioc to iso2 mapping
 function iocToIso2(ioc) {
